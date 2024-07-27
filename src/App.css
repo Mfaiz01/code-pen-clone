@@ -10,3 +10,10 @@
 .CodeMirror-scroll {
   background: #1d1e22;
 }
+
+.controlled-editor {
+  height: 100%;
+  margin: 0; /* Remove any default margin */
+  padding: 0; /* Remove any default padding */
+  border: none; /* Remove any default border */
+}
